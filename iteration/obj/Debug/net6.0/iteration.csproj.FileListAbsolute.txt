@@ -1,0 +1,15 @@
+C:\Mo\cs\iteration\bin\Debug\net6.0\iteration.exe
+C:\Mo\cs\iteration\bin\Debug\net6.0\iteration.deps.json
+C:\Mo\cs\iteration\bin\Debug\net6.0\iteration.runtimeconfig.json
+C:\Mo\cs\iteration\bin\Debug\net6.0\iteration.dll
+C:\Mo\cs\iteration\bin\Debug\net6.0\iteration.pdb
+C:\Mo\cs\iteration\obj\Debug\net6.0\iteration.csproj.AssemblyReference.cache
+C:\Mo\cs\iteration\obj\Debug\net6.0\iteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mo\cs\iteration\obj\Debug\net6.0\iteration.AssemblyInfoInputs.cache
+C:\Mo\cs\iteration\obj\Debug\net6.0\iteration.AssemblyInfo.cs
+C:\Mo\cs\iteration\obj\Debug\net6.0\iteration.csproj.CoreCompileInputs.cache
+C:\Mo\cs\iteration\obj\Debug\net6.0\iteration.dll
+C:\Mo\cs\iteration\obj\Debug\net6.0\refint\iteration.dll
+C:\Mo\cs\iteration\obj\Debug\net6.0\iteration.pdb
+C:\Mo\cs\iteration\obj\Debug\net6.0\iteration.genruntimeconfig.cache
+C:\Mo\cs\iteration\obj\Debug\net6.0\ref\iteration.dll

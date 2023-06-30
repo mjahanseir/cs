@@ -1,0 +1,15 @@
+C:\Mo\cs\controlflow\bin\Debug\net6.0\controlflow.exe
+C:\Mo\cs\controlflow\bin\Debug\net6.0\controlflow.deps.json
+C:\Mo\cs\controlflow\bin\Debug\net6.0\controlflow.runtimeconfig.json
+C:\Mo\cs\controlflow\bin\Debug\net6.0\controlflow.dll
+C:\Mo\cs\controlflow\bin\Debug\net6.0\controlflow.pdb
+C:\Mo\cs\controlflow\obj\Debug\net6.0\controlflow.csproj.AssemblyReference.cache
+C:\Mo\cs\controlflow\obj\Debug\net6.0\controlflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mo\cs\controlflow\obj\Debug\net6.0\controlflow.AssemblyInfoInputs.cache
+C:\Mo\cs\controlflow\obj\Debug\net6.0\controlflow.AssemblyInfo.cs
+C:\Mo\cs\controlflow\obj\Debug\net6.0\controlflow.csproj.CoreCompileInputs.cache
+C:\Mo\cs\controlflow\obj\Debug\net6.0\controlflow.dll
+C:\Mo\cs\controlflow\obj\Debug\net6.0\refint\controlflow.dll
+C:\Mo\cs\controlflow\obj\Debug\net6.0\controlflow.pdb
+C:\Mo\cs\controlflow\obj\Debug\net6.0\controlflow.genruntimeconfig.cache
+C:\Mo\cs\controlflow\obj\Debug\net6.0\ref\controlflow.dll
