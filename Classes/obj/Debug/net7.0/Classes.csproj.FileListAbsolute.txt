@@ -1,0 +1,15 @@
+C:\mo\mjahanseir\cs\Classes\bin\Debug\net7.0\Classes.exe
+C:\mo\mjahanseir\cs\Classes\bin\Debug\net7.0\Classes.deps.json
+C:\mo\mjahanseir\cs\Classes\bin\Debug\net7.0\Classes.runtimeconfig.json
+C:\mo\mjahanseir\cs\Classes\bin\Debug\net7.0\Classes.dll
+C:\mo\mjahanseir\cs\Classes\bin\Debug\net7.0\Classes.pdb
+C:\mo\mjahanseir\cs\Classes\obj\Debug\net7.0\Classes.csproj.AssemblyReference.cache
+C:\mo\mjahanseir\cs\Classes\obj\Debug\net7.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\mo\mjahanseir\cs\Classes\obj\Debug\net7.0\Classes.AssemblyInfoInputs.cache
+C:\mo\mjahanseir\cs\Classes\obj\Debug\net7.0\Classes.AssemblyInfo.cs
+C:\mo\mjahanseir\cs\Classes\obj\Debug\net7.0\Classes.csproj.CoreCompileInputs.cache
+C:\mo\mjahanseir\cs\Classes\obj\Debug\net7.0\Classes.dll
+C:\mo\mjahanseir\cs\Classes\obj\Debug\net7.0\refint\Classes.dll
+C:\mo\mjahanseir\cs\Classes\obj\Debug\net7.0\Classes.pdb
+C:\mo\mjahanseir\cs\Classes\obj\Debug\net7.0\Classes.genruntimeconfig.cache
+C:\mo\mjahanseir\cs\Classes\obj\Debug\net7.0\ref\Classes.dll
