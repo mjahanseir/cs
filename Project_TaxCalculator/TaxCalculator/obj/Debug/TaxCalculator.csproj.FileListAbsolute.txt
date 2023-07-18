@@ -1,0 +1,11 @@
+C:\CS\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+C:\CS\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+C:\CS\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+C:\CS\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.AssemblyReference.cache
+C:\CS\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.SuggestedBindingRedirects.cache
+C:\CS\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.frmTaxCalculator.resources
+C:\CS\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.Properties.Resources.resources
+C:\CS\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.GenerateResource.cache
+C:\CS\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.CoreCompileInputs.cache
+C:\CS\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+C:\CS\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
