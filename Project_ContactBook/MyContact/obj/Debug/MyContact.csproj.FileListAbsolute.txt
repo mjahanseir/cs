@@ -1,0 +1,12 @@
+C:\CS\MyContact\MyContact\bin\Debug\MyContact.exe.config
+C:\CS\MyContact\MyContact\bin\Debug\MyContact.exe
+C:\CS\MyContact\MyContact\bin\Debug\MyContact.pdb
+C:\CS\MyContact\MyContact\obj\Debug\MyContact.csproj.AssemblyReference.cache
+C:\CS\MyContact\MyContact\obj\Debug\MyContact.csproj.SuggestedBindingRedirects.cache
+C:\CS\MyContact\MyContact\obj\Debug\MyContact.Form1.resources
+C:\CS\MyContact\MyContact\obj\Debug\MyContact.Properties.Resources.resources
+C:\CS\MyContact\MyContact\obj\Debug\MyContact.csproj.GenerateResource.cache
+C:\CS\MyContact\MyContact\obj\Debug\MyContact.csproj.CoreCompileInputs.cache
+C:\CS\MyContact\MyContact\obj\Debug\MyContact.exe
+C:\CS\MyContact\MyContact\obj\Debug\MyContact.pdb
+C:\CS\MyContact\MyContact\obj\Debug\MyContact.frmAddOrEdit.resources
